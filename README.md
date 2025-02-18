@@ -39,7 +39,7 @@ Insights:
 - 75th percentile close price at $663.40, underscoring rapid price recovery post-dips.
 
 **Technical Best Practices**
-  Data Cleaning: Handled missing values and converted dates to datetime objects.
-  Visualization: Used Matplotlib/Seaborn for trend analysis and volatility mapping.
-  Statistical Analysis: Generated descriptive statistics to quantify market behavior.
-  Reproducibility: Structured code with clear comments and modular steps.
+- Data Cleaning: Handled missing values and converted dates to datetime objects.
+- Visualization: Used Matplotlib/Seaborn for trend analysis and volatility mapping.
+- Statistical Analysis: Generated descriptive statistics to quantify market behavior.
+- Reproducibility: Structured code with clear comments and modular steps.
