@@ -5,6 +5,7 @@ This Jupyter Notebook analyzes historical Bitcoin price data (April 28, 2013 –
 Key Visuals & Business Insights
 
 **Price Trends Over Time**
+
 Visual: Line charts for High and Low prices across the 4-year period.
 
 Insights:
@@ -14,6 +15,7 @@ Insights:
 
 
 **Volume vs. Price Movement**
+
 Visual: Line plots comparing Volume and Close prices.
 
 Insights:
@@ -21,6 +23,7 @@ Insights:
 - Low volume periods correlated with price stagnation, indicating reduced market participation.
 
 **Market Cap Trends**
+
 Visual: Line chart tracking Market Cap growth.
 
 Insights:
@@ -28,6 +31,7 @@ Insights:
 - Market cap stability during consolidation phases highlights Bitcoin’s maturing asset class status.
 
 **Statistical Summary**
+
 Visual: Tabular summary of key metrics (mean, standard deviation, quartiles).
 
 Insights:
