@@ -3,6 +3,7 @@
 This Jupyter Notebook analyzes historical Bitcoin price data (April 28, 2013 – July 31, 2017) to uncover trends, volatility patterns, and key statistical insights. The dataset includes daily metrics: High, Low, Volume, and Market Cap.
 
 Key Visuals & Business Insights
+
 **Price Trends Over Time**
 Visual: Line charts for High and Low prices across the 4-year period.
 
